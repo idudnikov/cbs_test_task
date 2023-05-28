@@ -21,7 +21,7 @@ http://127.0.0.1:8000/api/auth/jwt/create/
 
     POST-запрос - получение JWT-токена
 
-http://127.0.0.1:8000/api/organization/
+http://127.0.0.1:8000/api/organizations/
     
     POST-запрос - создание новой организации
     GET-запрос - получение списка организаций
